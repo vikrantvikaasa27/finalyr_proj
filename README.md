@@ -1,6 +1,13 @@
+# InterviewperpAI
+
 # Resume Analyzer and Mock Interview Application
 
 A comprehensive web application for resume analysis and mock interviews using AI.
+
+## Abstract
+
+InterviewPrep AI is an AI-powered web platform designed to help job seekers optimize their resumes and improve interview performance. It offers resume analysis, where Generative AI evaluates structure, keywords, and skill alignment, providing personalized feedback to enhance job applications. Additionally, its mock interview simulation generates tailored questions based on job descriptions and analyzes responses using sentiment analysis and confidence scoring to offer real-time insights. The platform also tracks user progress, allowing candidates to refine their skills over time. By leveraging machine learning and NLP, InterviewPrep AI ensures a data-driven, interactive, and efficient job preparation experience, helping users gain confidence and stand out in competitive hiring processes.
+
 
 ## Features
 
@@ -25,16 +32,6 @@ A comprehensive web application for resume analysis and mock interviews using AI
 3. Add the bin folder to your system PATH
 4. Verify installation by running `ffmpeg -version` in a command prompt
 
-#### macOS
-```bash
-brew install ffmpeg
-```
-
-#### Linux (Ubuntu/Debian)
-```bash
-sudo apt update
-sudo apt install ffmpeg
-```
 
 ### Backend Setup
 
@@ -102,6 +99,8 @@ If you encounter issues with the Google Gemini API:
 2. Verify that the API key has access to the Gemini model
 3. Check your API usage limits
 
-## License
+## Contributions
 
-MIT 
+- [Vijaya Dharshini Sivakumar](https://github.com/VijayaDharshiniSivakumar)
+- [Shobika K](https://github.com/Shobika-k2004)
+- [Sairam K](https://github.com/Sairam-K26)
