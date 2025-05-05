@@ -1,13 +1,12 @@
-# InterviewperpAI
+# INTERVIEWPREP: AI-POWERED RESUME ANALYSIS AND MOCK INTERVIEW SYSTEM FOR JOB SEEKERS
 
-# Resume Analyzer and Mock Interview Application
-
-A comprehensive web application for resume analysis and mock interviews using AI.
+A comprehensive web application for resume analysis and mock interviews using AI. 
 
 ## Abstract
 
 InterviewPrep AI is an AI-powered web platform designed to help job seekers optimize their resumes and improve interview performance. It offers resume analysis, where Generative AI evaluates structure, keywords, and skill alignment, providing personalized feedback to enhance job applications. Additionally, its mock interview simulation generates tailored questions based on job descriptions and analyzes responses using sentiment analysis and confidence scoring to offer real-time insights. The platform also tracks user progress, allowing candidates to refine their skills over time. By leveraging machine learning and NLP, InterviewPrep AI ensures a data-driven, interactive, and efficient job preparation experience, helping users gain confidence and stand out in competitive hiring processes.
 
+![WhatsApp Image 2025-05-05 at 10 24 21_c2db5454](https://github.com/user-attachments/assets/d0573ce7-be16-41ef-be0c-2ef9e71a77c4)
 
 ## Features
 
@@ -79,6 +78,20 @@ InterviewPrep AI is an AI-powered web platform designed to help job seekers opti
 4. Start a mock interview by uploading your resume and a job description
 5. Record your answers to interview questions
 6. View your progress in the dashboard
+
+## Output
+![Screenshot 2025-04-07 101330](https://github.com/user-attachments/assets/58cbbcc1-3b25-4788-a5d4-b183990b0135)
+
+![Screenshot 2025-04-07 101421](https://github.com/user-attachments/assets/3d6df60a-0687-4824-bd4f-0531763ad2e6)
+
+![image](https://github.com/user-attachments/assets/7cb85802-82a6-4375-acdf-d17d2680fd09)
+
+![image](https://github.com/user-attachments/assets/f4c0224f-71ca-4876-954e-12a53ca5ae1a)
+
+![image](https://github.com/user-attachments/assets/1414e7ed-0117-48bf-83e6-75d842d3c845)
+
+![image](https://github.com/user-attachments/assets/f0b278f8-dc1b-4a0d-a755-d92a063e1a28)
+
 
 ## Troubleshooting
 
